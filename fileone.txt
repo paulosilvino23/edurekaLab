@@ -1,5 +1,0 @@
-The first commited content
-
-This changes will be for the next commit.
-
-What if the changes moves directly to the repository, without passing by the staging area?
