@@ -1,5 +1,0 @@
-This is the second file
-
-This is a new change in the file, this will be pushed to the (NEW WORD HERE) remote repository
-
-Best regards
