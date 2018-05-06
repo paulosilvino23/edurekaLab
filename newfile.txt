@@ -1,3 +1,7 @@
 This is a new file, it'll be pushed to the remote repository
 
+<<<<<<< HEAD
 A change was placed here from the VM PC
+=======
+It has been changed from the DESKTOP PC repository
+>>>>>>> 03ef18e0cf90561ee55e3e10c8125a90b64c2fff
