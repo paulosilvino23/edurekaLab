@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 This X is a new file, it'll be pushed to the remote repository
-X222
+
 A change was placed here from the VM PC
-=======
- This X is a new file, it'll be pushed to the remote repository
 
 A change was placed here from the VM PC {A NEW CHANGE HERE}
->>>>>>> refs/remotes/origin/master
 
 I has been changed from the DESKTOP PC repository
