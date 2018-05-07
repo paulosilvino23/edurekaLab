@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-This is a new file, it'll be pushed [??] to the remote repository
-=======
 This X is a new file, it'll be pushed to the remote repository
->>>>>>> 201a80270ba0582d0bc9b48d3bc0526c92b92f42
 
-<<<<<<< HEAD
 A change was placed here from the VM PC
-=======
-It has been changed from the DESKTOP PC repository
->>>>>>> 03ef18e0cf90561ee55e3e10c8125a90b64c2fff
+
+I has been changed from the DESKTOP PC repository
