@@ -9,3 +9,7 @@ I has been changed from the DESKTOP PC repository
 This line was created and commited from the featureBranch
 
 public void sub() { }
+
+public void add() { }
+
+public void divide() { }
