@@ -7,3 +7,5 @@ A change was placed here from the VM PC {A NEW CHANGE HERE}
 I has been changed from the DESKTOP PC repository
 
 This line was created and commited from the featureBranch
+
+public void sub() { }
