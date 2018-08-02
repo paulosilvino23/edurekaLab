@@ -3,4 +3,8 @@ public class customer {
 	public customer() {
 		// adding the constructor implementation here
 	}
+
+	public String toString() {
+		return "";
+	}
 }
